@@ -1,0 +1,108 @@
+#logo {
+	display: block;
+	margin: auto;
+	height: 90%;
+	width: 90%;
+	padding: 2%;
+}
+
+#privacy {
+	text-align: left;
+}
+
+body {
+	color: white;
+	background-color: black;
+	margin: 10px;
+}
+
+
+h2 {
+	font-family: 'Arial', sans-serif;
+	display: block;
+	margin: auto;
+	text-align: center;
+	font-size: 80px;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: -2px;
+}
+
+#privacyHeader {
+	text-align: left;
+}
+
+h3 {
+	font-family: 'Arial', sans-serif;
+	display: block;
+	margin: auto;
+	font-size: 40px;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: -2px;
+}
+
+p {
+	font-family: 'Arial', sans-serif;
+	display: block;
+	margin: auto;
+	text-align: center;
+	font-size: 18px;
+	font-weight: 400;
+}
+
+li {
+	font-family: 'Arial', sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+}
+
+.privacy {
+	padding: 5%;
+}
+
+.privacy p {
+	text-align: left;
+}
+
+img {
+	max-width: 100%;
+	border-radius: 10%;
+}
+
+#copyright {
+	font-size: 18px;
+}
+
+hr {
+	width: 600px;
+    border-top: 1px solid #ffffff;
+    border-bottom: none;
+}
+
+.socialmedia {
+	display: block;
+	margin: auto;
+	padding: 2em;
+	text-align: center;
+}
+
+.socialmedia img {
+	transform: translateY(2px);
+}
+
+.socialmedia a:hover {
+	color: white;
+}
+
+.icon {
+	color: white;
+}
+
+a:visited {
+	color: #BEBEBE;
+}
+
+a:link {
+	color: #BEBEBE;
+}
